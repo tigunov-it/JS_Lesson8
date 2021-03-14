@@ -1,1 +1,1 @@
-# JS_Lesson8
+Домашнее задание в рамках учебного курса GeekBrains JavaScript. Урок8
